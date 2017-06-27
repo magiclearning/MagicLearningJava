@@ -1,4 +1,4 @@
-# MagicLearningJava #
+# MagicLearningJava: a machine learning library #
 MagicLearning is a small library to develop maximum entropy model based classifier in java.
 
 ## Getting starting ##
