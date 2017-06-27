@@ -2,7 +2,7 @@
 MagicLearning is a small library to develop maximum entropy model based classifier in java.
 
 ## Getting starting ##
-Before start your project, take a look at our small example. This basic example illustrates how to create models to recognize the text language.
+Before starting your project, take a look at our small example. This basic example illustrates how to create models to recognize the text language.
 
 ## Key Features ##
 ### Generate model: *Maximize* ###
